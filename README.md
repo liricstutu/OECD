@@ -1,5 +1,9 @@
 # OECD Front-end Test
 
+### Installation
+
+You need [npm](https://github.com/npm/npm) installed.
+
 ## clone the repository
 
 mkdir -p /where/you/wanna/put/it
